@@ -1,2 +1,4 @@
 # dind-jenkins-slave
-dind jeknis slave with docker-compose
+
+The only difference from the original [dind-jenkins-slave](https://github.com/tehranian/dind-jenkins-slave) image is that we have docker-compose installed.
+
